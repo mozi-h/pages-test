@@ -1,6 +1,7 @@
-## Short summary here
+Implement procrastination meter
+
 ### Goals
-- Optional procratination meter
+- Optional procrastination meter
 - Higher up = artificial lag
 
 ### Steps / detail
